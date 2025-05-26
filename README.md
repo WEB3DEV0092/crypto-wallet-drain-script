@@ -59,6 +59,6 @@ Compare The Top 6 Crypto Hardware Wallets In 2025
 Simple Hack To Remove Wallet Permissions and Improve Crypto Security
 
 ## Learn More
-To read more about crypto drainer scripts with a live demo go to [CyptoDrainers.net](https://cryptodrainers.net)
+To read more about crypto drainer scripts with a live demo go to [CryptoDrainers.net](https://cryptodrainers.net)
 
 ---
